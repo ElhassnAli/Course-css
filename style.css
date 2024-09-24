@@ -1,0 +1,33 @@
+.container {
+  background-color: #eee;
+  width: 800px;
+  margin: 20px auto;
+}
+.full,
+.one,
+.two,
+.three {
+  background-color: #ccc;
+  padding: 10px 0;
+  margin-top: 10px;
+  margin-left: 15px;
+  float: left;
+  text-align: center;
+  font-weight: bold;
+}
+.clear {
+  clear: both;
+}
+.full {
+  width: calc(100% - 30px);
+}
+.one {
+  width: calc((100% - 60px) / 3);
+}
+.two {
+  width: calc((100% - 45px) / 2);
+}
+.three {
+  width: calc((100% - 75px) / 4);
+  margin-bottom: 15px;
+}

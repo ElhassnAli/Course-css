@@ -1,0 +1,39 @@
+div{
+  width:400px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 5px solid green;
+  
+}
+.assign-4-shape-1{
+  background-image: url(/css-assignment.png);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  
+}
+.assign-4-shape-2{
+ background-image: url(/css-assignment.png);
+  background-repeat: no-repeat;
+  background-size: 350px 440px;
+ background-position: right
+  
+}
+.assign-4-shape-3{
+background-image: url(/css-assignment.png);
+  background-repeat: no-repeat;
+  background-size: 440px 350px;
+ background-position: bottom;
+  
+  
+}
+.assign-4-shape-4{
+  background-image: url(/css-assignment.png);
+  background-repeat: no-repeat;
+  background-size: 220px 220px;
+  background-position: right bottom;
+  
+}
